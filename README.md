@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @rbagley1224
-- 👀 I’m interested in learning software development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to work on small projects that can help me further learn code.
-- 📫 How to reach me - gmail bagleyr18@gmail.com or instagram - riley_bagley
+Welcome to my GitHub! I'm an aspiring IT professional and self-taught Python developer with a strong passion for automation, problem-solving, and continuous learning. I'm currently building my technical foundation through hands-on projects and certifications, and I'm excited to keep growing in the field.
 
-<!---
-rbagley1224/rbagley1224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 What I'm Working On
+🔧 Expanding my knowledge in Python scripting and IT automation
+☁️ Learning more about cloud platforms like AWS
+🖥️ Gaining experience in technical support and systems troubleshooting
+📜 Earning certifications like CompTIA A+, Network+, and Security+
+
+📚 Certifications
+-Google IT Support Professional
+-Google IT Automation with Python
+
+(Currently pursuing more—stay tuned!)
+
+🛠️ Skills & Tools
+-Python
+-Linux / Command Line
+-Networking fundamentals (IP, DNS, etc.)
+-Troubleshooting and technical support
+-Git & GitHub
+-Ticketing systems (like Jira, Zendesk, etc.)
+
+📌 About Me
+I’m based in Missouri, and I’m always looking for opportunities to grow in IT—whether that’s technical support, automation, or cloud infrastructure. I’m reliable, a fast learner, and enjoy helping others solve problems with technology.
+
+📫 Connect With Me
+Email: rbagley1224@gmail.com
+
+LinkedIn: www.linkedin.com/in/riley-bagley1224
+
